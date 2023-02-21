@@ -1,0 +1,45 @@
+.div-login
+{
+    width: 100%;
+    height: 100%;
+    background-image: url("/public/assets/images/login-background-image.jpg");
+    background-size: cover;
+  background-repeat: no-repeat;
+background-position: center;
+
+}
+
+
+
+
+.login-form
+{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 400px;
+ 
+    color: white;
+  
+}
+
+.opacity-tags
+{
+    opacity: 0.9;
+}
+
+.gradient-custom {
+
+    background: #6a11cb;
+    
+
+    background: -webkit-linear-gradient(to right, rgba(106, 17, 203, 1), rgba(37, 117, 252, 1));
+    
+ 
+    background: linear-gradient(to right, rgba(106, 17, 203, 1), rgba(37, 117, 252, 1))
+    }
+
+    .border-radius{
+        border-radius: 15px;
+      }
