@@ -127,7 +127,7 @@ function Login() {
                   <button className="btn btn-warning bg-gradient btn-sm btn-block border-radius" onClick={login}>Login</button>
                 </div>
 
-                <div className="form-outline d-grid gap-2">
+                <div className="form-outline d-grid gap-2 mt-2">
                   <button className="btn btn-warning bg-gradient btn-sm btn-block border-radius" onClick={cancel}>Cancel</button>
                 </div>
 
