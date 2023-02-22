@@ -9,12 +9,13 @@ function RecipeComponent() {
     const [theSearchVale, setTheSearhcValue]=useState();
 
     useEffect(() => {
-        const searchrecipe = JSON.parse(localStorage.getItem("searchRecipe"));
-        const searchRecipeResult = searchrecipe.search
+        // const searchrecipe = JSON.parse(localStorage.getItem("searchRecipe"));
+        // const searchRecipeResult = searchrecipe.search
+        
         let url = new URL(window.location.href);
         console.log("from recipe rsult",url);
         // console.log("reciperesult ",url)
-    //    let searchValue = url.searchParams.get("search");
+       let searchRecipeResult = url.searchParams.get("search");
     //    const searchValue = url.split('=')[1]
        setTheSearhcValue(searchRecipeResult);
        console.log(searchRecipeResult)
