@@ -22,7 +22,7 @@ function TopNavBar({ handleSearch }) {
     
     console.log(searchInput);
     console.log(localStorage);
-  const link = "https://dlmrcc.github.io/kodego-mini-project-two-frontend/#/reciperesult/reciperesult?search="+searchInput;
+  const link = "https://dlmrcc.github.io/kodego-mini-project-two-frontend/#/reciperesult?search="+searchInput;
   console.log(link);
   window.location.href=link;
   }
