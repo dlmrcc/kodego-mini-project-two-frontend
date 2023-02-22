@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/kodego-mini-project-two-frontend/static/css/main.1d19664c.css",
-    "main.js": "/kodego-mini-project-two-frontend/static/js/main.b5dce5aa.js",
+    "main.js": "/kodego-mini-project-two-frontend/static/js/main.d753f82c.js",
     "static/js/787.ccd56b51.chunk.js": "/kodego-mini-project-two-frontend/static/js/787.ccd56b51.chunk.js",
     "static/media/login-background-image.jpg": "/kodego-mini-project-two-frontend/static/media/login-background-image.d7ee287f3591f0b8209b.jpg",
     "index.html": "/kodego-mini-project-two-frontend/index.html",
     "main.1d19664c.css.map": "/kodego-mini-project-two-frontend/static/css/main.1d19664c.css.map",
-    "main.b5dce5aa.js.map": "/kodego-mini-project-two-frontend/static/js/main.b5dce5aa.js.map",
+    "main.d753f82c.js.map": "/kodego-mini-project-two-frontend/static/js/main.d753f82c.js.map",
     "787.ccd56b51.chunk.js.map": "/kodego-mini-project-two-frontend/static/js/787.ccd56b51.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.1d19664c.css",
-    "static/js/main.b5dce5aa.js"
+    "static/js/main.d753f82c.js"
   ]
 }
