@@ -13,3 +13,6 @@ export const serverRoutes = {
 }
 
 
+
+//frontend link for routes
+export const frontendRoutes = 'https://dlmrcc.github.io/kodego-mini-project-two-frontend';
