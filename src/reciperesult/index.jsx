@@ -11,7 +11,8 @@ function RecipeComponent() {
     useEffect(() => {
         const searchrecipe = JSON.parse(localStorage.getItem("searchRecipe"));
         const searchRecipeResult = searchrecipe.search
-        // let url = new URL(window.location.href);
+        let url = new URL(window.location.href);
+        console.log(url);
         // console.log("reciperesult ",url)
     //    let searchValue = url.searchParams.get("search");
     //    const searchValue = url.split('=')[1]
